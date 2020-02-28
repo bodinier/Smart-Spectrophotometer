@@ -1,0 +1,6013 @@
+1
+ 1
+ Faux
+ Faux
+400
+400
+ Faux
+ Faux
+0.0323
+0.03230
+ Vrai
+ Faux
+2
+ 2
+ Faux
+ Faux
+401
+401
+ Faux
+ Faux
+0.0309
+0.03090
+ Vrai
+ Faux
+3
+ 3
+ Faux
+ Faux
+402
+402
+ Faux
+ Faux
+0.0272
+0.02720
+ Vrai
+ Faux
+4
+ 4
+ Faux
+ Faux
+403
+403
+ Faux
+ Faux
+0.0263
+0.02630
+ Vrai
+ Faux
+5
+ 5
+ Faux
+ Faux
+404
+404
+ Faux
+ Faux
+0.024
+0.02400
+ Vrai
+ Faux
+6
+ 6
+ Faux
+ Faux
+405
+405
+ Faux
+ Faux
+0.0241
+0.02410
+ Vrai
+ Faux
+7
+ 7
+ Faux
+ Faux
+406
+406
+ Faux
+ Faux
+0.0225
+0.02250
+ Vrai
+ Faux
+8
+ 8
+ Faux
+ Faux
+407
+407
+ Faux
+ Faux
+0.0206
+0.02060
+ Vrai
+ Faux
+9
+ 9
+ Faux
+ Faux
+408
+408
+ Faux
+ Faux
+0.0196
+0.01960
+ Vrai
+ Faux
+10
+ 10
+ Faux
+ Faux
+409
+409
+ Faux
+ Faux
+0.0192
+0.01920
+ Vrai
+ Faux
+11
+ 11
+ Faux
+ Faux
+410
+410
+ Faux
+ Faux
+0.0178
+0.01780
+ Vrai
+ Faux
+12
+ 12
+ Faux
+ Faux
+411
+411
+ Faux
+ Faux
+0.0174
+0.01740
+ Vrai
+ Faux
+13
+ 13
+ Faux
+ Faux
+412
+412
+ Faux
+ Faux
+0.0165
+0.01650
+ Vrai
+ Faux
+14
+ 14
+ Faux
+ Faux
+413
+413
+ Faux
+ Faux
+0.0161
+0.01610
+ Vrai
+ Faux
+15
+ 15
+ Faux
+ Faux
+414
+414
+ Faux
+ Faux
+0.0153
+0.01530
+ Vrai
+ Faux
+16
+ 16
+ Faux
+ Faux
+415
+415
+ Faux
+ Faux
+0.0149
+0.01490
+ Vrai
+ Faux
+17
+ 17
+ Faux
+ Faux
+416
+416
+ Faux
+ Faux
+0.0139
+0.01390
+ Vrai
+ Faux
+18
+ 18
+ Faux
+ Faux
+417
+417
+ Faux
+ Faux
+0.0145
+0.01450
+ Vrai
+ Faux
+19
+ 19
+ Faux
+ Faux
+418
+418
+ Faux
+ Faux
+0.0135
+0.01350
+ Vrai
+ Faux
+20
+ 20
+ Faux
+ Faux
+419
+419
+ Faux
+ Faux
+0.0134
+0.01340
+ Vrai
+ Faux
+21
+ 21
+ Faux
+ Faux
+420
+420
+ Faux
+ Faux
+0.0135
+0.01350
+ Vrai
+ Faux
+22
+ 22
+ Faux
+ Faux
+421
+421
+ Faux
+ Faux
+0.0134
+0.01340
+ Vrai
+ Faux
+23
+ 23
+ Faux
+ Faux
+422
+422
+ Faux
+ Faux
+0.0133
+0.01330
+ Vrai
+ Faux
+24
+ 24
+ Faux
+ Faux
+423
+423
+ Faux
+ Faux
+0.0127
+0.01270
+ Vrai
+ Faux
+25
+ 25
+ Faux
+ Faux
+424
+424
+ Faux
+ Faux
+0.0134
+0.01340
+ Vrai
+ Faux
+26
+ 26
+ Faux
+ Faux
+425
+425
+ Faux
+ Faux
+0.0133
+0.01330
+ Vrai
+ Faux
+27
+ 27
+ Faux
+ Faux
+426
+426
+ Faux
+ Faux
+0.0139
+0.01390
+ Vrai
+ Faux
+28
+ 28
+ Faux
+ Faux
+427
+427
+ Faux
+ Faux
+0.014
+0.01400
+ Vrai
+ Faux
+29
+ 29
+ Faux
+ Faux
+428
+428
+ Faux
+ Faux
+0.0136
+0.01360
+ Vrai
+ Faux
+30
+ 30
+ Faux
+ Faux
+429
+429
+ Faux
+ Faux
+0.0143
+0.01430
+ Vrai
+ Faux
+31
+ 31
+ Faux
+ Faux
+430
+430
+ Faux
+ Faux
+0.015
+0.01500
+ Vrai
+ Faux
+32
+ 32
+ Faux
+ Faux
+431
+431
+ Faux
+ Faux
+0.0149
+0.01490
+ Vrai
+ Faux
+33
+ 33
+ Faux
+ Faux
+432
+432
+ Faux
+ Faux
+0.016
+0.01600
+ Vrai
+ Faux
+34
+ 34
+ Faux
+ Faux
+433
+433
+ Faux
+ Faux
+0.0158
+0.01580
+ Vrai
+ Faux
+35
+ 35
+ Faux
+ Faux
+434
+434
+ Faux
+ Faux
+0.017
+0.01700
+ Vrai
+ Faux
+36
+ 36
+ Faux
+ Faux
+435
+435
+ Faux
+ Faux
+0.0176
+0.01760
+ Vrai
+ Faux
+37
+ 37
+ Faux
+ Faux
+436
+436
+ Faux
+ Faux
+0.0182
+0.01820
+ Vrai
+ Faux
+38
+ 38
+ Faux
+ Faux
+437
+437
+ Faux
+ Faux
+0.0185
+0.01850
+ Vrai
+ Faux
+39
+ 39
+ Faux
+ Faux
+438
+438
+ Faux
+ Faux
+0.0194
+0.01940
+ Vrai
+ Faux
+40
+ 40
+ Faux
+ Faux
+439
+439
+ Faux
+ Faux
+0.0204
+0.02040
+ Vrai
+ Faux
+41
+ 41
+ Faux
+ Faux
+440
+440
+ Faux
+ Faux
+0.0218
+0.02180
+ Vrai
+ Faux
+42
+ 42
+ Faux
+ Faux
+441
+441
+ Faux
+ Faux
+0.0221
+0.02210
+ Vrai
+ Faux
+43
+ 43
+ Faux
+ Faux
+442
+442
+ Faux
+ Faux
+0.0236
+0.02360
+ Vrai
+ Faux
+44
+ 44
+ Faux
+ Faux
+443
+443
+ Faux
+ Faux
+0.0243
+0.02430
+ Vrai
+ Faux
+45
+ 45
+ Faux
+ Faux
+444
+444
+ Faux
+ Faux
+0.0257
+0.02570
+ Vrai
+ Faux
+46
+ 46
+ Faux
+ Faux
+445
+445
+ Faux
+ Faux
+0.0265
+0.02650
+ Vrai
+ Faux
+47
+ 47
+ Faux
+ Faux
+446
+446
+ Faux
+ Faux
+0.0279
+0.02790
+ Vrai
+ Faux
+48
+ 48
+ Faux
+ Faux
+447
+447
+ Faux
+ Faux
+0.0286
+0.02860
+ Vrai
+ Faux
+49
+ 49
+ Faux
+ Faux
+448
+448
+ Faux
+ Faux
+0.0312
+0.03120
+ Vrai
+ Faux
+50
+ 50
+ Faux
+ Faux
+449
+449
+ Faux
+ Faux
+0.0321
+0.03210
+ Vrai
+ Faux
+51
+ 51
+ Faux
+ Faux
+450
+450
+ Faux
+ Faux
+0.0345
+0.03450
+ Faux
+ Faux
+52
+ 52
+ Faux
+ Faux
+451
+451
+ Faux
+ Faux
+0.0358
+0.03580
+ Faux
+ Faux
+53
+ 53
+ Faux
+ Faux
+452
+452
+ Faux
+ Faux
+0.0376
+0.03760
+ Faux
+ Faux
+54
+ 54
+ Faux
+ Faux
+453
+453
+ Faux
+ Faux
+0.0407
+0.04070
+ Faux
+ Faux
+55
+ 55
+ Faux
+ Faux
+454
+454
+ Faux
+ Faux
+0.0418
+0.04180
+ Faux
+ Faux
+56
+ 56
+ Faux
+ Faux
+455
+455
+ Faux
+ Faux
+0.0439
+0.04390
+ Faux
+ Faux
+57
+ 57
+ Faux
+ Faux
+456
+456
+ Faux
+ Faux
+0.0454
+0.04540
+ Faux
+ Faux
+58
+ 58
+ Faux
+ Faux
+457
+457
+ Faux
+ Faux
+0.0479
+0.04790
+ Faux
+ Faux
+59
+ 59
+ Faux
+ Faux
+458
+458
+ Faux
+ Faux
+0.0505
+0.05050
+ Faux
+ Faux
+60
+ 60
+ Faux
+ Faux
+459
+459
+ Faux
+ Faux
+0.0528
+0.05280
+ Faux
+ Faux
+61
+ 61
+ Faux
+ Faux
+460
+460
+ Faux
+ Faux
+0.0547
+0.05470
+ Faux
+ Faux
+62
+ 62
+ Faux
+ Faux
+461
+461
+ Faux
+ Faux
+0.0589
+0.05890
+ Faux
+ Faux
+63
+ 63
+ Faux
+ Faux
+462
+462
+ Faux
+ Faux
+0.0602
+0.06020
+ Faux
+ Faux
+64
+ 64
+ Faux
+ Faux
+463
+463
+ Faux
+ Faux
+0.0651
+0.06510
+ Faux
+ Faux
+65
+ 65
+ Faux
+ Faux
+464
+464
+ Faux
+ Faux
+0.0676
+0.06760
+ Faux
+ Faux
+66
+ 66
+ Faux
+ Faux
+465
+465
+ Faux
+ Faux
+0.0723
+0.07230
+ Faux
+ Faux
+67
+ 67
+ Faux
+ Faux
+466
+466
+ Faux
+ Faux
+0.0746
+0.07460
+ Faux
+ Faux
+68
+ 68
+ Faux
+ Faux
+467
+467
+ Faux
+ Faux
+0.0793
+0.07930
+ Faux
+ Faux
+69
+ 69
+ Faux
+ Faux
+468
+468
+ Faux
+ Faux
+0.0841
+0.08410
+ Faux
+ Faux
+70
+ 70
+ Faux
+ Faux
+469
+469
+ Faux
+ Faux
+0.0867
+0.08670
+ Faux
+ Faux
+71
+ 71
+ Faux
+ Faux
+470
+470
+ Faux
+ Faux
+0.0904
+0.09040
+ Faux
+ Faux
+72
+ 72
+ Faux
+ Faux
+471
+471
+ Faux
+ Faux
+0.0932
+0.09320
+ Faux
+ Faux
+73
+ 73
+ Faux
+ Faux
+472
+472
+ Faux
+ Faux
+0.0975
+0.09750
+ Faux
+ Faux
+74
+ 74
+ Faux
+ Faux
+473
+473
+ Faux
+ Faux
+0.1006
+0.1006
+ Faux
+ Faux
+75
+ 75
+ Faux
+ Faux
+474
+474
+ Faux
+ Faux
+0.106
+0.1060
+ Faux
+ Faux
+76
+ 76
+ Faux
+ Faux
+475
+475
+ Faux
+ Faux
+0.1079
+0.1079
+ Faux
+ Faux
+77
+ 77
+ Faux
+ Faux
+476
+476
+ Faux
+ Faux
+0.1145
+0.1145
+ Faux
+ Faux
+78
+ 78
+ Faux
+ Faux
+477
+477
+ Faux
+ Faux
+0.1178
+0.1178
+ Faux
+ Faux
+79
+ 79
+ Faux
+ Faux
+478
+478
+ Faux
+ Faux
+0.1239
+0.1239
+ Faux
+ Faux
+80
+ 80
+ Faux
+ Faux
+479
+479
+ Faux
+ Faux
+0.1318
+0.1318
+ Faux
+ Faux
+81
+ 81
+ Faux
+ Faux
+480
+480
+ Faux
+ Faux
+0.1348
+0.1348
+ Faux
+ Faux
+82
+ 82
+ Faux
+ Faux
+481
+481
+ Faux
+ Faux
+0.1436
+0.1436
+ Faux
+ Faux
+83
+ 83
+ Faux
+ Faux
+482
+482
+ Faux
+ Faux
+0.1477
+0.1477
+ Faux
+ Faux
+84
+ 84
+ Faux
+ Faux
+483
+483
+ Faux
+ Faux
+0.156
+0.1560
+ Faux
+ Faux
+85
+ 85
+ Faux
+ Faux
+484
+484
+ Faux
+ Faux
+0.1606
+0.1606
+ Faux
+ Faux
+86
+ 86
+ Faux
+ Faux
+485
+485
+ Faux
+ Faux
+0.167
+0.1670
+ Faux
+ Faux
+87
+ 87
+ Faux
+ Faux
+486
+486
+ Faux
+ Faux
+0.172
+0.1720
+ Faux
+ Faux
+88
+ 88
+ Faux
+ Faux
+487
+487
+ Faux
+ Faux
+0.1797
+0.1797
+ Faux
+ Faux
+89
+ 89
+ Faux
+ Faux
+488
+488
+ Faux
+ Faux
+0.1859
+0.1859
+ Faux
+ Faux
+90
+ 90
+ Faux
+ Faux
+489
+489
+ Faux
+ Faux
+0.1893
+0.1893
+ Faux
+ Faux
+91
+ 91
+ Faux
+ Faux
+490
+490
+ Faux
+ Faux
+0.1948
+0.1948
+ Faux
+ Faux
+92
+ 92
+ Faux
+ Faux
+491
+491
+ Faux
+ Faux
+0.1981
+0.1981
+ Faux
+ Faux
+93
+ 93
+ Faux
+ Faux
+492
+492
+ Faux
+ Faux
+0.2049
+0.2049
+ Faux
+ Faux
+94
+ 94
+ Faux
+ Faux
+493
+493
+ Faux
+ Faux
+0.2071
+0.2071
+ Faux
+ Faux
+95
+ 95
+ Faux
+ Faux
+494
+494
+ Faux
+ Faux
+0.2154
+0.2154
+ Faux
+ Faux
+96
+ 96
+ Faux
+ Faux
+495
+495
+ Faux
+ Faux
+0.2203
+0.2203
+ Faux
+ Faux
+97
+ 97
+ Faux
+ Faux
+496
+496
+ Faux
+ Faux
+0.2284
+0.2284
+ Faux
+ Faux
+98
+ 98
+ Faux
+ Faux
+497
+497
+ Faux
+ Faux
+0.2391
+0.2391
+ Faux
+ Faux
+99
+ 99
+ Faux
+ Faux
+498
+498
+ Faux
+ Faux
+0.2426
+0.2426
+ Faux
+ Faux
+100
+ 100
+ Faux
+ Faux
+499
+499
+ Faux
+ Faux
+0.2558
+0.2558
+ Faux
+ Faux
+101
+ 101
+ Faux
+ Faux
+500
+500
+ Faux
+ Faux
+0.2621
+0.2621
+ Faux
+ Faux
+102
+ 102
+ Faux
+ Faux
+501
+501
+ Faux
+ Faux
+0.273
+0.2730
+ Faux
+ Faux
+103
+ 103
+ Faux
+ Faux
+502
+502
+ Faux
+ Faux
+0.279
+0.2790
+ Faux
+ Faux
+104
+ 104
+ Faux
+ Faux
+503
+503
+ Faux
+ Faux
+0.2885
+0.2885
+ Faux
+ Faux
+105
+ 105
+ Faux
+ Faux
+504
+504
+ Faux
+ Faux
+0.2991
+0.2991
+ Faux
+ Faux
+106
+ 106
+ Faux
+ Faux
+505
+505
+ Faux
+ Faux
+0.3034
+0.3034
+ Faux
+ Faux
+107
+ 107
+ Faux
+ Faux
+506
+506
+ Faux
+ Faux
+0.309
+0.3090
+ Faux
+ Faux
+108
+ 108
+ Faux
+ Faux
+507
+507
+ Faux
+ Faux
+0.3119
+0.3119
+ Faux
+ Faux
+109
+ 109
+ Faux
+ Faux
+508
+508
+ Faux
+ Faux
+0.3158
+0.3158
+ Faux
+ Faux
+110
+ 110
+ Faux
+ Faux
+509
+509
+ Faux
+ Faux
+0.3176
+0.3176
+ Faux
+ Faux
+111
+ 111
+ Faux
+ Faux
+510
+510
+ Faux
+ Faux
+0.3207
+0.3207
+ Faux
+ Faux
+112
+ 112
+ Faux
+ Faux
+511
+511
+ Faux
+ Faux
+0.3237
+0.3237
+ Faux
+ Faux
+113
+ 113
+ Faux
+ Faux
+512
+512
+ Faux
+ Faux
+0.3251
+0.3251
+ Faux
+ Faux
+114
+ 114
+ Faux
+ Faux
+513
+513
+ Faux
+ Faux
+0.3292
+0.3292
+ Faux
+ Faux
+115
+ 115
+ Faux
+ Faux
+514
+514
+ Faux
+ Faux
+0.3324
+0.3324
+ Faux
+ Faux
+116
+ 116
+ Faux
+ Faux
+515
+515
+ Faux
+ Faux
+0.3395
+0.3395
+ Faux
+ Faux
+117
+ 117
+ Faux
+ Faux
+516
+516
+ Faux
+ Faux
+0.3426
+0.3426
+ Faux
+ Faux
+118
+ 118
+ Faux
+ Faux
+517
+517
+ Faux
+ Faux
+0.3532
+0.3532
+ Faux
+ Faux
+119
+ 119
+ Faux
+ Faux
+518
+518
+ Faux
+ Faux
+0.3628
+0.3628
+ Faux
+ Faux
+120
+ 120
+ Faux
+ Faux
+519
+519
+ Faux
+ Faux
+0.3696
+0.3696
+ Faux
+ Faux
+121
+ 121
+ Faux
+ Faux
+520
+520
+ Faux
+ Faux
+0.3818
+0.3818
+ Faux
+ Faux
+122
+ 122
+ Faux
+ Faux
+521
+521
+ Faux
+ Faux
+0.3857
+0.3857
+ Faux
+ Faux
+123
+ 123
+ Faux
+ Faux
+522
+522
+ Faux
+ Faux
+0.3973
+0.3973
+ Faux
+ Faux
+124
+ 124
+ Faux
+ Faux
+523
+523
+ Faux
+ Faux
+0.4039
+0.4039
+ Faux
+ Faux
+125
+ 125
+ Faux
+ Faux
+524
+524
+ Faux
+ Faux
+0.4073
+0.4073
+ Faux
+ Faux
+126
+ 126
+ Faux
+ Faux
+525
+525
+ Faux
+ Faux
+0.4113
+0.4113
+ Faux
+ Faux
+127
+ 127
+ Faux
+ Faux
+526
+526
+ Faux
+ Faux
+0.4116
+0.4116
+ Faux
+ Faux
+128
+ 128
+ Faux
+ Faux
+527
+527
+ Faux
+ Faux
+0.41
+0.4100
+ Faux
+ Faux
+129
+ 129
+ Faux
+ Faux
+528
+528
+ Faux
+ Faux
+0.4085
+0.4085
+ Faux
+ Faux
+130
+ 130
+ Faux
+ Faux
+529
+529
+ Faux
+ Faux
+0.4034
+0.4034
+ Faux
+ Faux
+131
+ 131
+ Faux
+ Faux
+530
+530
+ Faux
+ Faux
+0.3965
+0.3965
+ Faux
+ Faux
+132
+ 132
+ Faux
+ Faux
+531
+531
+ Faux
+ Faux
+0.3941
+0.3941
+ Faux
+ Faux
+133
+ 133
+ Faux
+ Faux
+532
+532
+ Faux
+ Faux
+0.3859
+0.3859
+ Faux
+ Faux
+134
+ 134
+ Faux
+ Faux
+533
+533
+ Faux
+ Faux
+0.3832
+0.3832
+ Faux
+ Faux
+135
+ 135
+ Faux
+ Faux
+534
+534
+ Faux
+ Faux
+0.3784
+0.3784
+ Faux
+ Faux
+136
+ 136
+ Faux
+ Faux
+535
+535
+ Faux
+ Faux
+0.3757
+0.3757
+ Faux
+ Faux
+137
+ 137
+ Faux
+ Faux
+536
+536
+ Faux
+ Faux
+0.3751
+0.3751
+ Faux
+ Faux
+138
+ 138
+ Faux
+ Faux
+537
+537
+ Faux
+ Faux
+0.3761
+0.3761
+ Faux
+ Faux
+139
+ 139
+ Faux
+ Faux
+538
+538
+ Faux
+ Faux
+0.3771
+0.3771
+ Faux
+ Faux
+140
+ 140
+ Faux
+ Faux
+539
+539
+ Faux
+ Faux
+0.3813
+0.3813
+ Faux
+ Faux
+141
+ 141
+ Faux
+ Faux
+540
+540
+ Faux
+ Faux
+0.3858
+0.3858
+ Faux
+ Faux
+142
+ 142
+ Faux
+ Faux
+541
+541
+ Faux
+ Faux
+0.3885
+0.3885
+ Faux
+ Faux
+143
+ 143
+ Faux
+ Faux
+542
+542
+ Faux
+ Faux
+0.3934
+0.3934
+ Faux
+ Faux
+144
+ 144
+ Faux
+ Faux
+543
+543
+ Faux
+ Faux
+0.3957
+0.3957
+ Faux
+ Faux
+145
+ 145
+ Faux
+ Faux
+544
+544
+ Faux
+ Faux
+0.3977
+0.3977
+ Faux
+ Faux
+146
+ 146
+ Faux
+ Faux
+545
+545
+ Faux
+ Faux
+0.397
+0.3970
+ Faux
+ Faux
+147
+ 147
+ Faux
+ Faux
+546
+546
+ Faux
+ Faux
+0.396
+0.3960
+ Faux
+ Faux
+148
+ 148
+ Faux
+ Faux
+547
+547
+ Faux
+ Faux
+0.3898
+0.3898
+ Faux
+ Faux
+149
+ 149
+ Faux
+ Faux
+548
+548
+ Faux
+ Faux
+0.3851
+0.3851
+ Faux
+ Faux
+150
+ 150
+ Faux
+ Faux
+549
+549
+ Faux
+ Faux
+0.3748
+0.3748
+ Faux
+ Faux
+151
+ 151
+ Faux
+ Faux
+550
+550
+ Faux
+ Faux
+0.3601
+0.3601
+ Faux
+ Faux
+152
+ 152
+ Faux
+ Faux
+551
+551
+ Faux
+ Faux
+0.3544
+0.3544
+ Faux
+ Faux
+153
+ 153
+ Faux
+ Faux
+552
+552
+ Faux
+ Faux
+0.336
+0.3360
+ Faux
+ Faux
+154
+ 154
+ Faux
+ Faux
+553
+553
+ Faux
+ Faux
+0.3204
+0.3204
+ Faux
+ Faux
+155
+ 155
+ Faux
+ Faux
+554
+554
+ Faux
+ Faux
+0.3101
+0.3101
+ Faux
+ Faux
+156
+ 156
+ Faux
+ Faux
+555
+555
+ Faux
+ Faux
+0.2933
+0.2933
+ Faux
+ Faux
+157
+ 157
+ Faux
+ Faux
+556
+556
+ Faux
+ Faux
+0.2879
+0.2879
+ Faux
+ Faux
+158
+ 158
+ Faux
+ Faux
+557
+557
+ Faux
+ Faux
+0.2729
+0.2729
+ Faux
+ Faux
+159
+ 159
+ Faux
+ Faux
+558
+558
+ Faux
+ Faux
+0.2619
+0.2619
+ Faux
+ Faux
+160
+ 160
+ Faux
+ Faux
+559
+559
+ Faux
+ Faux
+0.2567
+0.2567
+ Faux
+ Faux
+161
+ 161
+ Faux
+ Faux
+560
+560
+ Faux
+ Faux
+0.2487
+0.2487
+ Faux
+ Faux
+162
+ 162
+ Faux
+ Faux
+561
+561
+ Faux
+ Faux
+0.2468
+0.2468
+ Faux
+ Faux
+163
+ 163
+ Faux
+ Faux
+562
+562
+ Faux
+ Faux
+0.2403
+0.2403
+ Faux
+ Faux
+164
+ 164
+ Faux
+ Faux
+563
+563
+ Faux
+ Faux
+0.237
+0.2370
+ Faux
+ Faux
+165
+ 165
+ Faux
+ Faux
+564
+564
+ Faux
+ Faux
+0.2349
+0.2349
+ Faux
+ Faux
+166
+ 166
+ Faux
+ Faux
+565
+565
+ Faux
+ Faux
+0.2318
+0.2318
+ Faux
+ Faux
+167
+ 167
+ Faux
+ Faux
+566
+566
+ Faux
+ Faux
+0.229
+0.2290
+ Faux
+ Faux
+168
+ 168
+ Faux
+ Faux
+567
+567
+ Faux
+ Faux
+0.2272
+0.2272
+ Faux
+ Faux
+169
+ 169
+ Faux
+ Faux
+568
+568
+ Faux
+ Faux
+0.2235
+0.2235
+ Faux
+ Faux
+170
+ 170
+ Faux
+ Faux
+569
+569
+ Faux
+ Faux
+0.2202
+0.2202
+ Faux
+ Faux
+171
+ 171
+ Faux
+ Faux
+570
+570
+ Faux
+ Faux
+0.2135
+0.2135
+ Faux
+ Faux
+172
+ 172
+ Faux
+ Faux
+571
+571
+ Faux
+ Faux
+0.2055
+0.2055
+ Faux
+ Faux
+173
+ 173
+ Faux
+ Faux
+572
+572
+ Faux
+ Faux
+0.2009
+0.2009
+ Faux
+ Faux
+174
+ 174
+ Faux
+ Faux
+573
+573
+ Faux
+ Faux
+0.1912
+0.1912
+ Faux
+ Faux
+175
+ 175
+ Faux
+ Faux
+574
+574
+ Faux
+ Faux
+0.1774
+0.1774
+ Faux
+ Faux
+176
+ 176
+ Faux
+ Faux
+575
+575
+ Faux
+ Faux
+0.1703
+0.1703
+ Faux
+ Faux
+177
+ 177
+ Faux
+ Faux
+576
+576
+ Faux
+ Faux
+0.1587
+0.1587
+ Faux
+ Faux
+178
+ 178
+ Faux
+ Faux
+577
+577
+ Faux
+ Faux
+0.1432
+0.1432
+ Faux
+ Faux
+179
+ 179
+ Faux
+ Faux
+578
+578
+ Faux
+ Faux
+0.1386
+0.1386
+ Faux
+ Faux
+180
+ 180
+ Faux
+ Faux
+579
+579
+ Faux
+ Faux
+0.124
+0.1240
+ Faux
+ Faux
+181
+ 181
+ Faux
+ Faux
+580
+580
+ Faux
+ Faux
+0.1168
+0.1168
+ Faux
+ Faux
+182
+ 182
+ Faux
+ Faux
+581
+581
+ Faux
+ Faux
+0.1053
+0.1053
+ Faux
+ Faux
+183
+ 183
+ Faux
+ Faux
+582
+582
+ Faux
+ Faux
+0.0943
+0.09430
+ Faux
+ Faux
+184
+ 184
+ Faux
+ Faux
+583
+583
+ Faux
+ Faux
+0.0908
+0.09080
+ Faux
+ Faux
+185
+ 185
+ Faux
+ Faux
+584
+584
+ Faux
+ Faux
+0.08
+0.08000
+ Faux
+ Faux
+186
+ 186
+ Faux
+ Faux
+585
+585
+ Faux
+ Faux
+0.073
+0.07300
+ Faux
+ Faux
+187
+ 187
+ Faux
+ Faux
+586
+586
+ Faux
+ Faux
+0.0695
+0.06950
+ Faux
+ Faux
+188
+ 188
+ Faux
+ Faux
+587
+587
+ Faux
+ Faux
+0.0617
+0.06170
+ Faux
+ Faux
+189
+ 189
+ Faux
+ Faux
+588
+588
+ Faux
+ Faux
+0.0568
+0.05680
+ Faux
+ Faux
+190
+ 190
+ Faux
+ Faux
+589
+589
+ Faux
+ Faux
+0.0538
+0.05380
+ Faux
+ Faux
+191
+ 191
+ Faux
+ Faux
+590
+590
+ Faux
+ Faux
+0.0504
+0.05040
+ Faux
+ Faux
+192
+ 192
+ Faux
+ Faux
+591
+591
+ Faux
+ Faux
+0.0463
+0.04630
+ Faux
+ Faux
+193
+ 193
+ Faux
+ Faux
+592
+592
+ Faux
+ Faux
+0.0451
+0.04510
+ Faux
+ Faux
+194
+ 194
+ Faux
+ Faux
+593
+593
+ Faux
+ Faux
+0.0426
+0.04260
+ Faux
+ Faux
+195
+ 195
+ Faux
+ Faux
+594
+594
+ Faux
+ Faux
+0.0404
+0.04040
+ Faux
+ Faux
+196
+ 196
+ Faux
+ Faux
+595
+595
+ Faux
+ Faux
+0.0393
+0.03930
+ Faux
+ Faux
+197
+ 197
+ Faux
+ Faux
+596
+596
+ Faux
+ Faux
+0.0381
+0.03810
+ Faux
+ Faux
+198
+ 198
+ Faux
+ Faux
+597
+597
+ Faux
+ Faux
+0.0369
+0.03690
+ Faux
+ Faux
+199
+ 199
+ Faux
+ Faux
+598
+598
+ Faux
+ Faux
+0.0364
+0.03640
+ Faux
+ Faux
+200
+ 200
+ Faux
+ Faux
+599
+599
+ Faux
+ Faux
+0.0348
+0.03480
+ Faux
+ Faux
+201
+ 201
+ Faux
+ Faux
+600
+600
+ Faux
+ Faux
+0.0341
+0.03410
+ Faux
+ Faux
+202
+ 202
+ Faux
+ Faux
+601
+601
+ Faux
+ Faux
+0.0333
+0.03330
+ Faux
+ Faux
+203
+ 203
+ Faux
+ Faux
+602
+602
+ Faux
+ Faux
+0.0325
+0.03250
+ Faux
+ Faux
+204
+ 204
+ Faux
+ Faux
+603
+603
+ Faux
+ Faux
+0.0323
+0.03230
+ Faux
+ Faux
+205
+ 205
+ Faux
+ Faux
+604
+604
+ Faux
+ Faux
+0.0311
+0.03110
+ Faux
+ Faux
+206
+ 206
+ Faux
+ Faux
+605
+605
+ Faux
+ Faux
+0.0305
+0.03050
+ Faux
+ Faux
+207
+ 207
+ Faux
+ Faux
+606
+606
+ Faux
+ Faux
+0.0303
+0.03030
+ Faux
+ Faux
+208
+ 208
+ Faux
+ Faux
+607
+607
+ Faux
+ Faux
+0.0295
+0.02950
+ Faux
+ Faux
+209
+ 209
+ Faux
+ Faux
+608
+608
+ Faux
+ Faux
+0.0293
+0.02930
+ Faux
+ Faux
+210
+ 210
+ Faux
+ Faux
+609
+609
+ Faux
+ Faux
+0.0289
+0.02890
+ Faux
+ Faux
+211
+ 211
+ Faux
+ Faux
+610
+610
+ Faux
+ Faux
+0.0276
+0.02760
+ Faux
+ Faux
+212
+ 212
+ Faux
+ Faux
+611
+611
+ Faux
+ Faux
+0.0274
+0.02740
+ Faux
+ Faux
+213
+ 213
+ Faux
+ Faux
+612
+612
+ Faux
+ Faux
+0.0272
+0.02720
+ Faux
+ Faux
+214
+ 214
+ Faux
+ Faux
+613
+613
+ Faux
+ Faux
+0.0267
+0.02670
+ Faux
+ Faux
+215
+ 215
+ Faux
+ Faux
+614
+614
+ Faux
+ Faux
+0.0263
+0.02630
+ Faux
+ Faux
+216
+ 216
+ Faux
+ Faux
+615
+615
+ Faux
+ Faux
+0.0261
+0.02610
+ Faux
+ Faux
+217
+ 217
+ Faux
+ Faux
+616
+616
+ Faux
+ Faux
+0.0255
+0.02550
+ Faux
+ Faux
+218
+ 218
+ Faux
+ Faux
+617
+617
+ Faux
+ Faux
+0.0251
+0.02510
+ Faux
+ Faux
+219
+ 219
+ Faux
+ Faux
+618
+618
+ Faux
+ Faux
+0.0246
+0.02460
+ Faux
+ Faux
+220
+ 220
+ Faux
+ Faux
+619
+619
+ Faux
+ Faux
+0.0248
+0.02480
+ Faux
+ Faux
+221
+ 221
+ Faux
+ Faux
+620
+620
+ Faux
+ Faux
+0.0242
+0.02420
+ Faux
+ Faux
+222
+ 222
+ Faux
+ Faux
+621
+621
+ Faux
+ Faux
+0.0241
+0.02410
+ Faux
+ Faux
+223
+ 223
+ Faux
+ Faux
+622
+622
+ Faux
+ Faux
+0.024
+0.02400
+ Faux
+ Faux
+224
+ 224
+ Faux
+ Faux
+623
+623
+ Faux
+ Faux
+0.0234
+0.02340
+ Faux
+ Faux
+225
+ 225
+ Faux
+ Faux
+624
+624
+ Faux
+ Faux
+0.0233
+0.02330
+ Faux
+ Faux
+226
+ 226
+ Faux
+ Faux
+625
+625
+ Faux
+ Faux
+0.0229
+0.02290
+ Faux
+ Faux
+227
+ 227
+ Faux
+ Faux
+626
+626
+ Faux
+ Faux
+0.0227
+0.02270
+ Faux
+ Faux
+228
+ 228
+ Faux
+ Faux
+627
+627
+ Faux
+ Faux
+0.0226
+0.02260
+ Faux
+ Faux
+229
+ 229
+ Faux
+ Faux
+628
+628
+ Faux
+ Faux
+0.022
+0.02200
+ Faux
+ Faux
+230
+ 230
+ Faux
+ Faux
+629
+629
+ Faux
+ Faux
+0.0224
+0.02240
+ Faux
+ Faux
+231
+ 231
+ Faux
+ Faux
+630
+630
+ Faux
+ Faux
+0.0213
+0.02130
+ Faux
+ Faux
+232
+ 232
+ Faux
+ Faux
+631
+631
+ Faux
+ Faux
+0.0215
+0.02150
+ Faux
+ Faux
+233
+ 233
+ Faux
+ Faux
+632
+632
+ Faux
+ Faux
+0.0214
+0.02140
+ Faux
+ Faux
+234
+ 234
+ Faux
+ Faux
+633
+633
+ Faux
+ Faux
+0.021
+0.02100
+ Faux
+ Faux
+235
+ 235
+ Faux
+ Faux
+634
+634
+ Faux
+ Faux
+0.0204
+0.02040
+ Faux
+ Faux
+236
+ 236
+ Faux
+ Faux
+635
+635
+ Faux
+ Faux
+0.0199
+0.01990
+ Faux
+ Faux
+237
+ 237
+ Faux
+ Faux
+636
+636
+ Faux
+ Faux
+0.0205
+0.02050
+ Faux
+ Faux
+238
+ 238
+ Faux
+ Faux
+637
+637
+ Faux
+ Faux
+0.0194
+0.01940
+ Faux
+ Faux
+239
+ 239
+ Faux
+ Faux
+638
+638
+ Faux
+ Faux
+0.0196
+0.01960
+ Faux
+ Faux
+240
+ 240
+ Faux
+ Faux
+639
+639
+ Faux
+ Faux
+0.0194
+0.01940
+ Faux
+ Faux
+241
+ 241
+ Faux
+ Faux
+640
+640
+ Faux
+ Faux
+0.0192
+0.01920
+ Faux
+ Faux
+242
+ 242
+ Faux
+ Faux
+641
+641
+ Faux
+ Faux
+0.0181
+0.01810
+ Faux
+ Faux
+243
+ 243
+ Faux
+ Faux
+642
+642
+ Faux
+ Faux
+0.0174
+0.01740
+ Faux
+ Faux
+244
+ 244
+ Faux
+ Faux
+643
+643
+ Faux
+ Faux
+0.0169
+0.01690
+ Faux
+ Faux
+245
+ 245
+ Faux
+ Faux
+644
+644
+ Faux
+ Faux
+0.0164
+0.01640
+ Faux
+ Faux
+246
+ 246
+ Faux
+ Faux
+645
+645
+ Faux
+ Faux
+0.0163
+0.01630
+ Faux
+ Faux
+247
+ 247
+ Faux
+ Faux
+646
+646
+ Faux
+ Faux
+0.0155
+0.01550
+ Faux
+ Faux
+248
+ 248
+ Faux
+ Faux
+647
+647
+ Faux
+ Faux
+0.0158
+0.01580
+ Faux
+ Faux
+249
+ 249
+ Faux
+ Faux
+648
+648
+ Faux
+ Faux
+0.0148
+0.01480
+ Faux
+ Faux
+250
+ 250
+ Faux
+ Faux
+649
+649
+ Faux
+ Faux
+0.0143
+0.01430
+ Faux
+ Faux
+251
+ 251
+ Faux
+ Faux
+650
+650
+ Faux
+ Faux
+0.0144
+0.01440
+ Faux
+ Faux
+252
+ 252
+ Faux
+ Faux
+651
+651
+ Faux
+ Faux
+0.0136
+0.01360
+ Faux
+ Faux
+253
+ 253
+ Faux
+ Faux
+652
+652
+ Faux
+ Faux
+0.0132
+0.01320
+ Faux
+ Faux
+254
+ 254
+ Faux
+ Faux
+653
+653
+ Faux
+ Faux
+0.0128
+0.01280
+ Faux
+ Faux
+255
+ 255
+ Faux
+ Faux
+654
+654
+ Faux
+ Faux
+0.0127
+0.01270
+ Faux
+ Faux
+256
+ 256
+ Faux
+ Faux
+655
+655
+ Faux
+ Faux
+0.0122
+0.01220
+ Faux
+ Faux
+257
+ 257
+ Faux
+ Faux
+656
+656
+ Faux
+ Faux
+0.0115
+0.01150
+ Faux
+ Faux
+258
+ 258
+ Faux
+ Faux
+657
+657
+ Faux
+ Faux
+0.0118
+0.01180
+ Faux
+ Faux
+259
+ 259
+ Faux
+ Faux
+658
+658
+ Faux
+ Faux
+0.0109
+0.01090
+ Faux
+ Faux
+260
+ 260
+ Faux
+ Faux
+659
+659
+ Faux
+ Faux
+0.0105
+0.01050
+ Faux
+ Faux
+261
+ 261
+ Faux
+ Faux
+660
+660
+ Faux
+ Faux
+0.0103
+0.01030
+ Faux
+ Faux
+262
+ 262
+ Faux
+ Faux
+661
+661
+ Faux
+ Faux
+0.0102
+0.01020
+ Faux
+ Faux
+263
+ 263
+ Faux
+ Faux
+662
+662
+ Faux
+ Faux
+0.0093
+9.300E-3
+ Faux
+ Faux
+264
+ 264
+ Faux
+ Faux
+663
+663
+ Faux
+ Faux
+0.0097
+9.700E-3
+ Faux
+ Faux
+265
+ 265
+ Faux
+ Faux
+664
+664
+ Faux
+ Faux
+0.0091
+9.100E-3
+ Faux
+ Faux
+266
+ 266
+ Faux
+ Faux
+665
+665
+ Faux
+ Faux
+0.0086
+8.600E-3
+ Faux
+ Faux
+267
+ 267
+ Faux
+ Faux
+666
+666
+ Faux
+ Faux
+0.0085
+8.500E-3
+ Faux
+ Faux
+268
+ 268
+ Faux
+ Faux
+667
+667
+ Faux
+ Faux
+0.0075
+7.500E-3
+ Faux
+ Faux
+269
+ 269
+ Faux
+ Faux
+668
+668
+ Faux
+ Faux
+0.0075
+7.500E-3
+ Faux
+ Faux
+270
+ 270
+ Faux
+ Faux
+669
+669
+ Faux
+ Faux
+0.0068
+6.800E-3
+ Faux
+ Faux
+271
+ 271
+ Faux
+ Faux
+670
+670
+ Faux
+ Faux
+0.0067
+6.700E-3
+ Faux
+ Faux
+272
+ 272
+ Faux
+ Faux
+671
+671
+ Faux
+ Faux
+0.0066
+6.600E-3
+ Faux
+ Faux
+273
+ 273
+ Faux
+ Faux
+672
+672
+ Faux
+ Faux
+0.0056
+5.600E-3
+ Faux
+ Faux
+274
+ 274
+ Faux
+ Faux
+673
+673
+ Faux
+ Faux
+0.0055
+5.500E-3
+ Faux
+ Faux
+275
+ 275
+ Faux
+ Faux
+674
+674
+ Faux
+ Faux
+0.0055
+5.500E-3
+ Faux
+ Faux
+276
+ 276
+ Faux
+ Faux
+675
+675
+ Faux
+ Faux
+0.0046
+4.600E-3
+ Faux
+ Faux
+277
+ 277
+ Faux
+ Faux
+676
+676
+ Faux
+ Faux
+0.0045
+4.500E-3
+ Faux
+ Faux
+278
+ 278
+ Faux
+ Faux
+677
+677
+ Faux
+ Faux
+0.0042
+4.200E-3
+ Faux
+ Faux
+279
+ 279
+ Faux
+ Faux
+678
+678
+ Faux
+ Faux
+0.0042
+4.200E-3
+ Faux
+ Faux
+280
+ 280
+ Faux
+ Faux
+679
+679
+ Faux
+ Faux
+0.0035
+3.500E-3
+ Faux
+ Faux
+281
+ 281
+ Faux
+ Faux
+680
+680
+ Faux
+ Faux
+0.0031
+3.100E-3
+ Faux
+ Faux
+282
+ 282
+ Faux
+ Faux
+681
+681
+ Faux
+ Faux
+0.0023
+2.300E-3
+ Faux
+ Faux
+283
+ 283
+ Faux
+ Faux
+682
+682
+ Faux
+ Faux
+0.0026
+2.600E-3
+ Faux
+ Faux
+284
+ 284
+ Faux
+ Faux
+683
+683
+ Faux
+ Faux
+0.0017
+1.700E-3
+ Faux
+ Faux
+285
+ 285
+ Faux
+ Faux
+684
+684
+ Faux
+ Faux
+0.0019
+1.900E-3
+ Faux
+ Faux
+286
+ 286
+ Faux
+ Faux
+685
+685
+ Faux
+ Faux
+0.0019
+1.900E-3
+ Faux
+ Faux
+287
+ 287
+ Faux
+ Faux
+686
+686
+ Faux
+ Faux
+0.0008
+8.000E-4
+ Faux
+ Faux
+288
+ 288
+ Faux
+ Faux
+687
+687
+ Faux
+ Faux
+0.0006
+6.000E-4
+ Faux
+ Faux
+289
+ 289
+ Faux
+ Faux
+688
+688
+ Faux
+ Faux
+0.0006
+6.000E-4
+ Faux
+ Faux
+290
+ 290
+ Faux
+ Faux
+689
+689
+ Faux
+ Faux
+0.0002
+2.000E-4
+ Faux
+ Faux
+291
+ 291
+ Faux
+ Faux
+690
+690
+ Faux
+ Faux
+-2.00000000000422E-04
+-2.000E-4
+ Faux
+ Faux
+292
+ 292
+ Faux
+ Faux
+691
+691
+ Faux
+ Faux
+-3.00000000000189E-04
+-3.000E-4
+ Faux
+ Faux
+293
+ 293
+ Faux
+ Faux
+692
+692
+ Faux
+ Faux
+-6.00000000000378E-04
+-6.000E-4
+ Faux
+ Faux
+294
+ 294
+ Faux
+ Faux
+693
+693
+ Faux
+ Faux
+-3.99999999999956E-04
+-4.000E-4
+ Faux
+ Faux
+295
+ 295
+ Faux
+ Faux
+694
+694
+ Faux
+ Faux
+-1.30000000000052E-03
+-1.300E-3
+ Faux
+ Faux
+296
+ 296
+ Faux
+ Faux
+695
+695
+ Faux
+ Faux
+-1.1000000000001E-03
+-1.100E-3
+ Faux
+ Faux
+297
+ 297
+ Faux
+ Faux
+696
+696
+ Faux
+ Faux
+-1.30000000000052E-03
+-1.300E-3
+ Faux
+ Faux
+298
+ 298
+ Faux
+ Faux
+697
+697
+ Faux
+ Faux
+-1.40000000000029E-03
+-1.400E-3
+ Faux
+ Faux
+299
+ 299
+ Faux
+ Faux
+698
+698
+ Faux
+ Faux
+-1.90000000000001E-03
+-1.900E-3
+ Faux
+ Faux
+300
+ 300
+ Faux
+ Faux
+699
+699
+ Faux
+ Faux
+-2.29999999999997E-03
+-2.300E-3
+ Faux
+ Faux
+301
+ 301
+ Faux
+ Faux
+700
+700
+ Faux
+ Faux
+-3.00000000000011E-03
+-3.000E-3
+ Faux
+ Faux
+302
+ 302
+ Faux
+ Faux
+701
+701
+ Faux
+ Faux
+-2.60000000000016E-03
+-2.600E-3
+ Faux
+ Faux
+303
+ 303
+ Faux
+ Faux
+702
+702
+ Faux
+ Faux
+-2.90000000000035E-03
+-2.900E-3
+ Faux
+ Faux
+304
+ 304
+ Faux
+ Faux
+703
+703
+ Faux
+ Faux
+-2.90000000000035E-03
+-2.900E-3
+ Faux
+ Faux
+305
+ 305
+ Faux
+ Faux
+704
+704
+ Faux
+ Faux
+-4.10000000000021E-03
+-4.100E-3
+ Faux
+ Faux
+306
+ 306
+ Faux
+ Faux
+705
+705
+ Faux
+ Faux
+-3.3000000000003E-03
+-3.300E-3
+ Faux
+ Faux
+307
+ 307
+ Faux
+ Faux
+706
+706
+ Faux
+ Faux
+-4.29999999999975E-03
+-4.300E-3
+ Faux
+ Faux
+308
+ 308
+ Faux
+ Faux
+707
+707
+ Faux
+ Faux
+-4.29999999999975E-03
+-4.300E-3
+ Faux
+ Faux
+309
+ 309
+ Faux
+ Faux
+708
+708
+ Faux
+ Faux
+-4.29999999999975E-03
+-4.300E-3
+ Faux
+ Faux
+310
+ 310
+ Faux
+ Faux
+709
+709
+ Faux
+ Faux
+-4.59999999999994E-03
+-4.600E-3
+ Faux
+ Faux
+311
+ 311
+ Faux
+ Faux
+710
+710
+ Faux
+ Faux
+-4.70000000000059E-03
+-4.700E-3
+ Faux
+ Faux
+312
+ 312
+ Faux
+ Faux
+711
+711
+ Faux
+ Faux
+-5.5000000000005E-03
+-5.500E-3
+ Faux
+ Faux
+313
+ 313
+ Faux
+ Faux
+712
+712
+ Faux
+ Faux
+-4.99999999999989E-03
+-5.000E-3
+ Faux
+ Faux
+314
+ 314
+ Faux
+ Faux
+713
+713
+ Faux
+ Faux
+-4.90000000000013E-03
+-4.900E-3
+ Faux
+ Faux
+315
+ 315
+ Faux
+ Faux
+714
+714
+ Faux
+ Faux
+-5.30000000000008E-03
+-5.300E-3
+ Faux
+ Faux
+316
+ 316
+ Faux
+ Faux
+715
+715
+ Faux
+ Faux
+-5.60000000000027E-03
+-5.600E-3
+ Faux
+ Faux
+317
+ 317
+ Faux
+ Faux
+716
+716
+ Faux
+ Faux
+-5.90000000000046E-03
+-5.900E-3
+ Faux
+ Faux
+318
+ 318
+ Faux
+ Faux
+717
+717
+ Faux
+ Faux
+-5.90000000000046E-03
+-5.900E-3
+ Faux
+ Faux
+319
+ 319
+ Faux
+ Faux
+718
+718
+ Faux
+ Faux
+-6.60000000000061E-03
+-6.600E-3
+ Faux
+ Faux
+320
+ 320
+ Faux
+ Faux
+719
+719
+ Faux
+ Faux
+-6.30000000000042E-03
+-6.300E-3
+ Faux
+ Faux
+321
+ 321
+ Faux
+ Faux
+720
+720
+ Faux
+ Faux
+-6.60000000000061E-03
+-6.600E-3
+ Faux
+ Faux
+322
+ 322
+ Faux
+ Faux
+721
+721
+ Faux
+ Faux
+-7.00000000000056E-03
+-7.000E-3
+ Faux
+ Faux
+323
+ 323
+ Faux
+ Faux
+722
+722
+ Faux
+ Faux
+-6.89999999999991E-03
+-6.900E-3
+ Faux
+ Faux
+324
+ 324
+ Faux
+ Faux
+723
+723
+ Faux
+ Faux
+-6.89999999999991E-03
+-6.900E-3
+ Faux
+ Faux
+325
+ 325
+ Faux
+ Faux
+724
+724
+ Faux
+ Faux
+-7.2000000000001E-03
+-7.200E-3
+ Faux
+ Faux
+326
+ 326
+ Faux
+ Faux
+725
+725
+ Faux
+ Faux
+-7.60000000000005E-03
+-7.600E-3
+ Faux
+ Faux
+327
+ 327
+ Faux
+ Faux
+726
+726
+ Faux
+ Faux
+-7.60000000000005E-03
+-7.600E-3
+ Faux
+ Faux
+328
+ 328
+ Faux
+ Faux
+727
+727
+ Faux
+ Faux
+-7.60000000000005E-03
+-7.600E-3
+ Faux
+ Faux
+329
+ 329
+ Faux
+ Faux
+728
+728
+ Faux
+ Faux
+-7.60000000000005E-03
+-7.600E-3
+ Faux
+ Faux
+330
+ 330
+ Faux
+ Faux
+729
+729
+ Faux
+ Faux
+-8.20000000000043E-03
+-8.200E-3
+ Faux
+ Faux
+331
+ 331
+ Faux
+ Faux
+730
+730
+ Faux
+ Faux
+-8.00000000000001E-03
+-8.000E-3
+ Faux
+ Faux
+332
+ 332
+ Faux
+ Faux
+731
+731
+ Faux
+ Faux
+-8.00000000000001E-03
+-8.000E-3
+ Faux
+ Faux
+333
+ 333
+ Faux
+ Faux
+732
+732
+ Faux
+ Faux
+-8.00000000000001E-03
+-8.000E-3
+ Faux
+ Faux
+334
+ 334
+ Faux
+ Faux
+733
+733
+ Faux
+ Faux
+-8.3000000000002E-03
+-8.300E-3
+ Faux
+ Faux
+335
+ 335
+ Faux
+ Faux
+734
+734
+ Faux
+ Faux
+-8.39999999999996E-03
+-8.400E-3
+ Faux
+ Faux
+336
+ 336
+ Faux
+ Faux
+735
+735
+ Faux
+ Faux
+-8.39999999999996E-03
+-8.400E-3
+ Faux
+ Faux
+337
+ 337
+ Faux
+ Faux
+736
+736
+ Faux
+ Faux
+-8.39999999999996E-03
+-8.400E-3
+ Faux
+ Faux
+338
+ 338
+ Faux
+ Faux
+737
+737
+ Faux
+ Faux
+-8.70000000000015E-03
+-8.700E-3
+ Faux
+ Faux
+339
+ 339
+ Faux
+ Faux
+738
+738
+ Faux
+ Faux
+-8.79999999999992E-03
+-8.800E-3
+ Faux
+ Faux
+340
+ 340
+ Faux
+ Faux
+739
+739
+ Faux
+ Faux
+-8.79999999999992E-03
+-8.800E-3
+ Faux
+ Faux
+341
+ 341
+ Faux
+ Faux
+740
+740
+ Faux
+ Faux
+-9.10000000000011E-03
+-9.100E-3
+ Faux
+ Faux
+342
+ 342
+ Faux
+ Faux
+741
+741
+ Faux
+ Faux
+-9.10000000000011E-03
+-9.100E-3
+ Faux
+ Faux
+343
+ 343
+ Faux
+ Faux
+742
+742
+ Faux
+ Faux
+-9.59999999999983E-03
+-9.600E-3
+ Faux
+ Faux
+344
+ 344
+ Faux
+ Faux
+743
+743
+ Faux
+ Faux
+-9.50000000000006E-03
+-9.500E-3
+ Faux
+ Faux
+345
+ 345
+ Faux
+ Faux
+744
+744
+ Faux
+ Faux
+-9.19999999999987E-03
+-9.200E-3
+ Faux
+ Faux
+346
+ 346
+ Faux
+ Faux
+745
+745
+ Faux
+ Faux
+-9.59999999999983E-03
+-9.600E-3
+ Faux
+ Faux
+347
+ 347
+ Faux
+ Faux
+746
+746
+ Faux
+ Faux
+-9.59999999999983E-03
+-9.600E-3
+ Faux
+ Faux
+348
+ 348
+ Faux
+ Faux
+747
+747
+ Faux
+ Faux
+-9.59999999999983E-03
+-9.600E-3
+ Faux
+ Faux
+349
+ 349
+ Faux
+ Faux
+748
+748
+ Faux
+ Faux
+-9.59999999999983E-03
+-9.600E-3
+ Faux
+ Faux
+350
+ 350
+ Faux
+ Faux
+749
+749
+ Faux
+ Faux
+-9.4000000000003E-03
+-9.400E-3
+ Faux
+ Faux
+351
+ 351
+ Faux
+ Faux
+750
+750
+ Faux
+ Faux
+-1.01000000000004E-02
+-0.01010
+ Faux
+ Faux
+352
+ 352
+ Faux
+ Faux
+751
+751
+ Faux
+ Faux
+-1.05000000000004E-02
+-0.01050
+ Faux
+ Faux
+353
+ 353
+ Faux
+ Faux
+752
+752
+ Faux
+ Faux
+-1.02000000000002E-02
+-0.01020
+ Faux
+ Faux
+354
+ 354
+ Faux
+ Faux
+753
+753
+ Faux
+ Faux
+-1.01000000000004E-02
+-0.01010
+ Faux
+ Faux
+355
+ 355
+ Faux
+ Faux
+754
+754
+ Faux
+ Faux
+-1.01000000000004E-02
+-0.01010
+ Faux
+ Faux
+356
+ 356
+ Faux
+ Faux
+755
+755
+ Faux
+ Faux
+-9.59999999999983E-03
+-9.600E-3
+ Faux
+ Faux
+357
+ 357
+ Faux
+ Faux
+756
+756
+ Faux
+ Faux
+-9.90000000000002E-03
+-9.900E-3
+ Faux
+ Faux
+358
+ 358
+ Faux
+ Faux
+757
+757
+ Faux
+ Faux
+-1.06999999999999E-02
+-0.01070
+ Faux
+ Faux
+359
+ 359
+ Faux
+ Faux
+758
+758
+ Faux
+ Faux
+-1.03999999999997E-02
+-0.01040
+ Faux
+ Faux
+360
+ 360
+ Faux
+ Faux
+759
+759
+ Faux
+ Faux
+-1.02000000000002E-02
+-0.01020
+ Faux
+ Faux
+361
+ 361
+ Faux
+ Faux
+760
+760
+ Faux
+ Faux
+-9.70000000000049E-03
+-9.700E-3
+ Faux
+ Faux
+362
+ 362
+ Faux
+ Faux
+761
+761
+ Faux
+ Faux
+-9.99999999999979E-03
+-1.000E-2
+ Faux
+ Faux
+363
+ 363
+ Faux
+ Faux
+762
+762
+ Faux
+ Faux
+-9.59999999999983E-03
+-9.600E-3
+ Faux
+ Faux
+364
+ 364
+ Faux
+ Faux
+763
+763
+ Faux
+ Faux
+-9.50000000000006E-03
+-9.500E-3
+ Faux
+ Faux
+365
+ 365
+ Faux
+ Faux
+764
+764
+ Faux
+ Faux
+-9.70000000000049E-03
+-9.700E-3
+ Faux
+ Faux
+366
+ 366
+ Faux
+ Faux
+765
+765
+ Faux
+ Faux
+-1.02000000000002E-02
+-0.01020
+ Faux
+ Faux
+367
+ 367
+ Faux
+ Faux
+766
+766
+ Faux
+ Faux
+-1.01000000000004E-02
+-0.01010
+ Faux
+ Faux
+368
+ 368
+ Faux
+ Faux
+767
+767
+ Faux
+ Faux
+-1.03999999999997E-02
+-0.01040
+ Faux
+ Faux
+369
+ 369
+ Faux
+ Faux
+768
+768
+ Faux
+ Faux
+-0.0103
+-0.01030
+ Faux
+ Faux
+370
+ 370
+ Faux
+ Faux
+769
+769
+ Faux
+ Faux
+-1.03999999999997E-02
+-0.01040
+ Faux
+ Faux
+371
+ 371
+ Faux
+ Faux
+770
+770
+ Faux
+ Faux
+-1.03999999999997E-02
+-0.01040
+ Faux
+ Faux
+372
+ 372
+ Faux
+ Faux
+771
+771
+ Faux
+ Faux
+-1.03999999999997E-02
+-0.01040
+ Faux
+ Faux
+373
+ 373
+ Faux
+ Faux
+772
+772
+ Faux
+ Faux
+-1.10000000000001E-02
+-0.01100
+ Faux
+ Faux
+374
+ 374
+ Faux
+ Faux
+773
+773
+ Faux
+ Faux
+-1.05000000000004E-02
+-0.01050
+ Faux
+ Faux
+375
+ 375
+ Faux
+ Faux
+774
+774
+ Faux
+ Faux
+-1.06000000000002E-02
+-0.01060
+ Faux
+ Faux
+376
+ 376
+ Faux
+ Faux
+775
+775
+ Faux
+ Faux
+-1.10999999999999E-02
+-0.01110
+ Faux
+ Faux
+377
+ 377
+ Faux
+ Faux
+776
+776
+ Faux
+ Faux
+-1.16000000000005E-02
+-0.01160
+ Faux
+ Faux
+378
+ 378
+ Faux
+ Faux
+777
+777
+ Faux
+ Faux
+-1.06000000000002E-02
+-0.01060
+ Faux
+ Faux
+379
+ 379
+ Faux
+ Faux
+778
+778
+ Faux
+ Faux
+-1.06999999999999E-02
+-0.01070
+ Faux
+ Faux
+380
+ 380
+ Faux
+ Faux
+779
+779
+ Faux
+ Faux
+-1.10000000000001E-02
+-0.01100
+ Faux
+ Faux
+381
+ 381
+ Faux
+ Faux
+780
+780
+ Faux
+ Faux
+-1.10000000000001E-02
+-0.01100
+ Faux
+ Faux
+382
+ 382
+ Faux
+ Faux
+781
+781
+ Faux
+ Faux
+-1.10999999999999E-02
+-0.01110
+ Faux
+ Faux
+383
+ 383
+ Faux
+ Faux
+782
+782
+ Faux
+ Faux
+-1.13000000000003E-02
+-0.01130
+ Faux
+ Faux
+384
+ 384
+ Faux
+ Faux
+783
+783
+ Faux
+ Faux
+-1.12000000000005E-02
+-0.01120
+ Faux
+ Faux
+385
+ 385
+ Faux
+ Faux
+784
+784
+ Faux
+ Faux
+-1.12000000000005E-02
+-0.01120
+ Faux
+ Faux
+386
+ 386
+ Faux
+ Faux
+785
+785
+ Faux
+ Faux
+-1.10999999999999E-02
+-0.01110
+ Faux
+ Faux
+387
+ 387
+ Faux
+ Faux
+786
+786
+ Faux
+ Faux
+-1.06999999999999E-02
+-0.01070
+ Faux
+ Faux
+388
+ 388
+ Faux
+ Faux
+787
+787
+ Faux
+ Faux
+-1.10000000000001E-02
+-0.01100
+ Faux
+ Faux
+389
+ 389
+ Faux
+ Faux
+788
+788
+ Faux
+ Faux
+-1.14999999999998E-02
+-0.01150
+ Faux
+ Faux
+390
+ 390
+ Faux
+ Faux
+789
+789
+ Faux
+ Faux
+-1.13000000000003E-02
+-0.01130
+ Faux
+ Faux
+391
+ 391
+ Faux
+ Faux
+790
+790
+ Faux
+ Faux
+-1.16000000000005E-02
+-0.01160
+ Faux
+ Faux
+392
+ 392
+ Faux
+ Faux
+791
+791
+ Faux
+ Faux
+-1.14000000000001E-02
+-0.01140
+ Faux
+ Faux
+393
+ 393
+ Faux
+ Faux
+792
+792
+ Faux
+ Faux
+-1.16000000000005E-02
+-0.01160
+ Faux
+ Faux
+394
+ 394
+ Faux
+ Faux
+793
+793
+ Faux
+ Faux
+-1.14999999999998E-02
+-0.01150
+ Faux
+ Faux
+395
+ 395
+ Faux
+ Faux
+794
+794
+ Faux
+ Faux
+-0.0118
+-0.01180
+ Faux
+ Faux
+396
+ 396
+ Faux
+ Faux
+795
+795
+ Faux
+ Faux
+-1.18999999999998E-02
+-0.01190
+ Faux
+ Faux
+397
+ 397
+ Faux
+ Faux
+796
+796
+ Faux
+ Faux
+-1.16000000000005E-02
+-0.01160
+ Faux
+ Faux
+398
+ 398
+ Faux
+ Faux
+797
+797
+ Faux
+ Faux
+-1.14999999999998E-02
+-0.01150
+ Faux
+ Faux
+399
+ 399
+ Faux
+ Faux
+798
+798
+ Faux
+ Faux
+-1.17000000000003E-02
+-0.01170
+ Faux
+ Faux
+400
+ 400
+ Faux
+ Faux
+799
+799
+ Faux
+ Faux
+-1.18999999999998E-02
+-0.01190
+ Faux
+ Faux
+401
+ 401
+ Faux
+ Faux
+800
+800
+ Faux
+ Faux
+-1.16000000000005E-02
+-0.01160
+ Faux
+ Faux
+402
+ 402
+ Faux
+ Faux
+801
+801
+ Faux
+ Faux
+-1.20000000000005E-02
+-0.01200
+ Faux
+ Faux
+403
+ 403
+ Faux
+ Faux
+802
+802
+ Faux
+ Faux
+-0.0118
+-0.01180
+ Faux
+ Faux
+404
+ 404
+ Faux
+ Faux
+803
+803
+ Faux
+ Faux
+-1.14000000000001E-02
+-0.01140
+ Faux
+ Faux
+405
+ 405
+ Faux
+ Faux
+804
+804
+ Faux
+ Faux
+-1.14000000000001E-02
+-0.01140
+ Faux
+ Faux
+406
+ 406
+ Faux
+ Faux
+805
+805
+ Faux
+ Faux
+-1.18999999999998E-02
+-0.01190
+ Faux
+ Faux
+407
+ 407
+ Faux
+ Faux
+806
+806
+ Faux
+ Faux
+-0.0118
+-0.01180
+ Faux
+ Faux
+408
+ 408
+ Faux
+ Faux
+807
+807
+ Faux
+ Faux
+-1.14999999999998E-02
+-0.01150
+ Faux
+ Faux
+409
+ 409
+ Faux
+ Faux
+808
+808
+ Faux
+ Faux
+-1.13000000000003E-02
+-0.01130
+ Faux
+ Faux
+410
+ 410
+ Faux
+ Faux
+809
+809
+ Faux
+ Faux
+-1.10000000000001E-02
+-0.01100
+ Faux
+ Faux
+411
+ 411
+ Faux
+ Faux
+810
+810
+ Faux
+ Faux
+-9.99999999999979E-03
+-1.000E-2
+ Faux
+ Faux
+412
+ 412
+ Faux
+ Faux
+811
+811
+ Faux
+ Faux
+-1.10000000000001E-02
+-0.01100
+ Faux
+ Faux
+413
+ 413
+ Faux
+ Faux
+812
+812
+ Faux
+ Faux
+-0.0122
+-0.01220
+ Faux
+ Faux
+414
+ 414
+ Faux
+ Faux
+813
+813
+ Faux
+ Faux
+-1.02000000000002E-02
+-0.01020
+ Faux
+ Faux
+415
+ 415
+ Faux
+ Faux
+814
+814
+ Faux
+ Faux
+-1.13000000000003E-02
+-0.01130
+ Faux
+ Faux
+416
+ 416
+ Faux
+ Faux
+815
+815
+ Faux
+ Faux
+-1.14999999999998E-02
+-0.01150
+ Faux
+ Faux
+417
+ 417
+ Faux
+ Faux
+816
+816
+ Faux
+ Faux
+-0.0103
+-0.01030
+ Faux
+ Faux
+418
+ 418
+ Faux
+ Faux
+817
+817
+ Faux
+ Faux
+-1.03999999999997E-02
+-0.01040
+ Faux
+ Faux
+419
+ 419
+ Faux
+ Faux
+818
+818
+ Faux
+ Faux
+-1.06999999999999E-02
+-0.01070
+ Faux
+ Faux
+420
+ 420
+ Faux
+ Faux
+819
+819
+ Faux
+ Faux
+-1.02000000000002E-02
+-0.01020
+ Faux
+ Faux
+421
+ 421
+ Faux
+ Faux
+820
+820
+ Faux
+ Faux
+-0.0118
+-0.01180
+ Faux
+ Faux
+422
+ 422
+ Faux
+ Faux
+821
+821
+ Faux
+ Faux
+-1.14999999999998E-02
+-0.01150
+ Faux
+ Faux
+423
+ 423
+ Faux
+ Faux
+822
+822
+ Faux
+ Faux
+-1.09000000000004E-02
+-0.01090
+ Faux
+ Faux
+424
+ 424
+ Faux
+ Faux
+823
+823
+ Faux
+ Faux
+-1.08000000000006E-02
+-0.01080
+ Faux
+ Faux
+425
+ 425
+ Faux
+ Faux
+824
+824
+ Faux
+ Faux
+-9.80000000000025E-03
+-9.800E-3
+ Faux
+ Faux
+426
+ 426
+ Faux
+ Faux
+825
+825
+ Faux
+ Faux
+-8.90000000000057E-03
+-8.900E-3
+ Faux
+ Faux
+427
+ 427
+ Faux
+ Faux
+826
+826
+ Faux
+ Faux
+-1.21000000000002E-02
+-0.01210
+ Faux
+ Faux
+428
+ 428
+ Faux
+ Faux
+827
+827
+ Faux
+ Faux
+-1.06000000000002E-02
+-0.01060
+ Faux
+ Faux
+429
+ 429
+ Faux
+ Faux
+828
+828
+ Faux
+ Faux
+-1.03999999999997E-02
+-0.01040
+ Faux
+ Faux
+430
+ 430
+ Faux
+ Faux
+829
+829
+ Faux
+ Faux
+-9.10000000000011E-03
+-9.100E-3
+ Faux
+ Faux
+431
+ 431
+ Faux
+ Faux
+830
+830
+ Faux
+ Faux
+-1.25000000000002E-02
+-0.01250
+ Faux
+ Faux
+432
+ 432
+ Faux
+ Faux
+831
+831
+ Faux
+ Faux
+-1.21000000000002E-02
+-0.01210
+ Faux
+ Faux
+433
+ 433
+ Faux
+ Faux
+832
+832
+ Faux
+ Faux
+-1.13000000000003E-02
+-0.01130
+ Faux
+ Faux
+434
+ 434
+ Faux
+ Faux
+833
+833
+ Faux
+ Faux
+-1.06000000000002E-02
+-0.01060
+ Faux
+ Faux
+435
+ 435
+ Faux
+ Faux
+834
+834
+ Faux
+ Faux
+-1.08000000000006E-02
+-0.01080
+ Faux
+ Faux
+436
+ 436
+ Faux
+ Faux
+835
+835
+ Faux
+ Faux
+-9.99999999999979E-03
+-1.000E-2
+ Faux
+ Faux
+437
+ 437
+ Faux
+ Faux
+836
+836
+ Faux
+ Faux
+-1.25000000000002E-02
+-0.01250
+ Faux
+ Faux
+438
+ 438
+ Faux
+ Faux
+837
+837
+ Faux
+ Faux
+-1.16000000000005E-02
+-0.01160
+ Faux
+ Faux
+439
+ 439
+ Faux
+ Faux
+838
+838
+ Faux
+ Faux
+-1.13000000000003E-02
+-0.01130
+ Faux
+ Faux
+440
+ 440
+ Faux
+ Faux
+839
+839
+ Faux
+ Faux
+-1.36000000000003E-02
+-0.01360
+ Faux
+ Faux
+441
+ 441
+ Faux
+ Faux
+840
+840
+ Faux
+ Faux
+-1.12000000000005E-02
+-0.01120
+ Faux
+ Faux
+442
+ 442
+ Faux
+ Faux
+841
+841
+ Faux
+ Faux
+-1.02000000000002E-02
+-0.01020
+ Faux
+ Faux
+443
+ 443
+ Faux
+ Faux
+842
+842
+ Faux
+ Faux
+-1.25999999999999E-02
+-0.01260
+ Faux
+ Faux
+444
+ 444
+ Faux
+ Faux
+843
+843
+ Faux
+ Faux
+-1.32000000000003E-02
+-0.01320
+ Faux
+ Faux
+445
+ 445
+ Faux
+ Faux
+844
+844
+ Faux
+ Faux
+-1.06000000000002E-02
+-0.01060
+ Faux
+ Faux
+446
+ 446
+ Faux
+ Faux
+845
+845
+ Faux
+ Faux
+-1.21000000000002E-02
+-0.01210
+ Faux
+ Faux
+447
+ 447
+ Faux
+ Faux
+846
+846
+ Faux
+ Faux
+-1.10000000000001E-02
+-0.01100
+ Faux
+ Faux
+448
+ 448
+ Faux
+ Faux
+847
+847
+ Faux
+ Faux
+-9.99999999999979E-03
+-1.000E-2
+ Faux
+ Faux
+449
+ 449
+ Faux
+ Faux
+848
+848
+ Faux
+ Faux
+-1.20000000000005E-02
+-0.01200
+ Faux
+ Faux
+450
+ 450
+ Faux
+ Faux
+849
+849
+ Faux
+ Faux
+-1.17000000000003E-02
+-0.01170
+ Faux
+ Faux
+451
+ 451
+ Faux
+ Faux
+850
+850
+ Faux
+ Faux
+-1.12000000000005E-02
+-0.01120
+ Faux
+ Faux
+452
+ 452
+ Faux
+ Faux
+851
+851
+ Faux
+ Faux
+-1.02000000000002E-02
+-0.01020
+ Faux
+ Faux
+453
+ 453
+ Faux
+ Faux
+852
+852
+ Faux
+ Faux
+-1.32000000000003E-02
+-0.01320
+ Faux
+ Faux
+454
+ 454
+ Faux
+ Faux
+853
+853
+ Faux
+ Faux
+-1.25000000000002E-02
+-0.01250
+ Faux
+ Faux
+455
+ 455
+ Faux
+ Faux
+854
+854
+ Faux
+ Faux
+-0.0118
+-0.01180
+ Faux
+ Faux
+456
+ 456
+ Faux
+ Faux
+855
+855
+ Faux
+ Faux
+-1.12000000000005E-02
+-0.01120
+ Faux
+ Faux
+457
+ 457
+ Faux
+ Faux
+856
+856
+ Faux
+ Faux
+-1.13000000000003E-02
+-0.01130
+ Faux
+ Faux
+458
+ 458
+ Faux
+ Faux
+857
+857
+ Faux
+ Faux
+-1.03999999999997E-02
+-0.01040
+ Faux
+ Faux
+459
+ 459
+ Faux
+ Faux
+858
+858
+ Faux
+ Faux
+-9.80000000000025E-03
+-9.800E-3
+ Faux
+ Faux
+460
+ 460
+ Faux
+ Faux
+859
+859
+ Faux
+ Faux
+-0.0122
+-0.01220
+ Faux
+ Faux
+461
+ 461
+ Faux
+ Faux
+860
+860
+ Faux
+ Faux
+-1.25000000000002E-02
+-0.01250
+ Faux
+ Faux
+462
+ 462
+ Faux
+ Faux
+861
+861
+ Faux
+ Faux
+-1.24000000000004E-02
+-0.01240
+ Faux
+ Faux
+463
+ 463
+ Faux
+ Faux
+862
+862
+ Faux
+ Faux
+-1.22999999999998E-02
+-0.01230
+ Faux
+ Faux
+464
+ 464
+ Faux
+ Faux
+863
+863
+ Faux
+ Faux
+-1.10000000000001E-02
+-0.01100
+ Faux
+ Faux
+465
+ 465
+ Faux
+ Faux
+864
+864
+ Faux
+ Faux
+-1.05000000000004E-02
+-0.01050
+ Faux
+ Faux
+466
+ 466
+ Faux
+ Faux
+865
+865
+ Faux
+ Faux
+-1.25999999999999E-02
+-0.01260
+ Faux
+ Faux
+467
+ 467
+ Faux
+ Faux
+866
+866
+ Faux
+ Faux
+-1.27000000000006E-02
+-0.01270
+ Faux
+ Faux
+468
+ 468
+ Faux
+ Faux
+867
+867
+ Faux
+ Faux
+-1.31000000000006E-02
+-0.01310
+ Faux
+ Faux
+469
+ 469
+ Faux
+ Faux
+868
+868
+ Faux
+ Faux
+-1.29999999999999E-02
+-0.01300
+ Faux
+ Faux
+470
+ 470
+ Faux
+ Faux
+869
+869
+ Faux
+ Faux
+-1.32000000000003E-02
+-0.01320
+ Faux
+ Faux
+471
+ 471
+ Faux
+ Faux
+870
+870
+ Faux
+ Faux
+-1.27000000000006E-02
+-0.01270
+ Faux
+ Faux
+472
+ 472
+ Faux
+ Faux
+871
+871
+ Faux
+ Faux
+-1.28000000000004E-02
+-0.01280
+ Faux
+ Faux
+473
+ 473
+ Faux
+ Faux
+872
+872
+ Faux
+ Faux
+-1.32000000000003E-02
+-0.01320
+ Faux
+ Faux
+474
+ 474
+ Faux
+ Faux
+873
+873
+ Faux
+ Faux
+-1.31000000000006E-02
+-0.01310
+ Faux
+ Faux
+475
+ 475
+ Faux
+ Faux
+874
+874
+ Faux
+ Faux
+-0.0137
+-0.01370
+ Faux
+ Faux
+476
+ 476
+ Faux
+ Faux
+875
+875
+ Faux
+ Faux
+-1.33999999999999E-02
+-0.01340
+ Faux
+ Faux
+477
+ 477
+ Faux
+ Faux
+876
+876
+ Faux
+ Faux
+-1.36000000000003E-02
+-0.01360
+ Faux
+ Faux
+478
+ 478
+ Faux
+ Faux
+877
+877
+ Faux
+ Faux
+-1.17000000000003E-02
+-0.01170
+ Faux
+ Faux
+479
+ 479
+ Faux
+ Faux
+878
+878
+ Faux
+ Faux
+-1.31000000000006E-02
+-0.01310
+ Faux
+ Faux
+480
+ 480
+ Faux
+ Faux
+879
+879
+ Faux
+ Faux
+-1.31000000000006E-02
+-0.01310
+ Faux
+ Faux
+481
+ 481
+ Faux
+ Faux
+880
+880
+ Faux
+ Faux
+-0.0118
+-0.01180
+ Faux
+ Faux
+482
+ 482
+ Faux
+ Faux
+881
+881
+ Faux
+ Faux
+-1.24000000000004E-02
+-0.01240
+ Faux
+ Faux
+483
+ 483
+ Faux
+ Faux
+882
+882
+ Faux
+ Faux
+-1.29999999999999E-02
+-0.01300
+ Faux
+ Faux
+484
+ 484
+ Faux
+ Faux
+883
+883
+ Faux
+ Faux
+-1.32000000000003E-02
+-0.01320
+ Faux
+ Faux
+485
+ 485
+ Faux
+ Faux
+884
+884
+ Faux
+ Faux
+-1.32000000000003E-02
+-0.01320
+ Faux
+ Faux
+486
+ 486
+ Faux
+ Faux
+885
+885
+ Faux
+ Faux
+-1.35000000000005E-02
+-0.01350
+ Faux
+ Faux
+487
+ 487
+ Faux
+ Faux
+886
+886
+ Faux
+ Faux
+-1.32000000000003E-02
+-0.01320
+ Faux
+ Faux
+488
+ 488
+ Faux
+ Faux
+887
+887
+ Faux
+ Faux
+-1.25000000000002E-02
+-0.01250
+ Faux
+ Faux
+489
+ 489
+ Faux
+ Faux
+888
+888
+ Faux
+ Faux
+-1.13000000000003E-02
+-0.01130
+ Faux
+ Faux
+490
+ 490
+ Faux
+ Faux
+889
+889
+ Faux
+ Faux
+-1.27000000000006E-02
+-0.01270
+ Faux
+ Faux
+491
+ 491
+ Faux
+ Faux
+890
+890
+ Faux
+ Faux
+-1.46000000000006E-02
+-0.01460
+ Faux
+ Faux
+492
+ 492
+ Faux
+ Faux
+891
+891
+ Faux
+ Faux
+-1.36000000000003E-02
+-0.01360
+ Faux
+ Faux
+493
+ 493
+ Faux
+ Faux
+892
+892
+ Faux
+ Faux
+-1.10999999999999E-02
+-0.01110
+ Faux
+ Faux
+494
+ 494
+ Faux
+ Faux
+893
+893
+ Faux
+ Faux
+-0.0122
+-0.01220
+ Faux
+ Faux
+495
+ 495
+ Faux
+ Faux
+894
+894
+ Faux
+ Faux
+-1.28000000000004E-02
+-0.01280
+ Faux
+ Faux
+496
+ 496
+ Faux
+ Faux
+895
+895
+ Faux
+ Faux
+-1.29000000000001E-02
+-0.01290
+ Faux
+ Faux
+497
+ 497
+ Faux
+ Faux
+896
+896
+ Faux
+ Faux
+-1.33000000000001E-02
+-0.01330
+ Faux
+ Faux
+498
+ 498
+ Faux
+ Faux
+897
+897
+ Faux
+ Faux
+-1.29000000000001E-02
+-0.01290
+ Faux
+ Faux
+499
+ 499
+ Faux
+ Faux
+898
+898
+ Faux
+ Faux
+-0.0118
+-0.01180
+ Faux
+ Faux
+500
+ 500
+ Faux
+ Faux
+899
+899
+ Faux
+ Faux
+-1.08000000000006E-02
+-0.01080
+ Faux
+ Faux
+501
+ 501
+ Faux
+ Faux
+900
+900
+ Faux
+ Faux
+-1.32000000000003E-02
+-0.01320
+ Faux
+ Faux
+FIN
